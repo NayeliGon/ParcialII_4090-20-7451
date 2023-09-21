@@ -1,0 +1,27 @@
+/* Estilos para el título y el fondo del encabezado */
+.container-header {
+    background-color: #8A2BE2; /* Morado */
+    color: #00FF00; /* Verde */
+}
+
+/* Estilo para el fondo del cuerpo de la página */
+body {
+    background-color: white; /* Verde */
+}
+
+/* Estilo para el texto de la descripción */
+.container-description {
+    color: #8A2BE2; /* Morado */
+}
+
+/* Estilo para los botones del carrusel */
+.carousel-control-prev, .carousel-control-next {
+    background-color: #8A2BE2; /* Morado */
+    color: #00FF00; /* Verde */
+}
+
+/* Estilos para los puntos indicadores del carrusel */
+.carousel-indicators .active {
+    background-color: #8A2BE2; /* Morado */
+    border-color: #00FF00; /* Verde */
+}
